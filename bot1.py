@@ -235,7 +235,7 @@ def main_buttons():
           )
     kb.row(  
         InlineKeyboardButton("Botပြုလုပ်လိုပါက", url="tg://resolve?domain=Quality_Shake&text=Botအသစ်လုပ်ချင်လို့ပါ"),
-        InlineKeyboardButton("UPDATE", url="https://t.me/yeesardate")
+        InlineKeyboardButton("UPDATE", url="https://telegram.me/+CcHV4sP6sng1NWFl")
           )
     return kb
 # ======================
